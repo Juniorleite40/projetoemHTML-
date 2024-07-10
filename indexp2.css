@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.meu-botao2 a{
+
+    background-color:  #9CC1D9;
+    color: white;
+    border: none;
+    padding: 10px 60px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 10px;
+    position: relative;
+    left: 1%;
+}
+.meu-botao2 a:hover {
+    color: black;
+}
+
+.git1 img {
+    position: relative;
+    width: 130px;
+    height: 130px;
+}
+.git1 a {
+    margin: 20px;
+    text-decoration: none;
+    color:  #9CC1D9;
+}
+h4 {
+    position: relative;
+    left: 1%;
+}
+p {
+    font-size: 20px;
+}
